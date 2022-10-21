@@ -1,5 +1,5 @@
 # Create a function called main.
-def a():
+def main():
 # Return the value "codeschooluz"
     return "codeschooluz"
-print(a())
+print(main())
