@@ -1,6 +1,6 @@
 # Create a function called main.
-def a():
+def main():
 # Return the value str type.
     return "Salom"
-print(a())
+print(main())
 
