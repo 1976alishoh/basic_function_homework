@@ -1,5 +1,5 @@
 # Create a function called main.
-def a():
+def main():
 # Return the value integer type.
     return 12345
-print(a())
+print(main())
